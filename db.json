@@ -1,0 +1,21 @@
+{
+  "chamados": [
+    {
+      "id": "1",
+      "solicitante": "Maria Silva",
+      "setor": "Financeiro",
+      "tipo": "Software",
+      "descricao": "Planilha não abre mais e exibe mensagem de erro ao iniciar o sistema.",
+      "prioridade": "Alta"
+    },
+    {
+      "solicitante": "Nykolas",
+      "setor": "TI",
+      "tipo": "Hardware",
+      "descricao": "Problema de hardware",
+      "prioridade": "Alta",
+      "id": "cbqgMayFLSA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
